@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap');
+
+@theme {
+  --color-coffee-50:  #fdf8f6;
+  --color-coffee-100: #f2e8e5;
+  --color-coffee-200: #eaddd7;
+  --color-coffee-300: #e0cec7;
+  --color-coffee-400: #d2bab0;
+  --color-coffee-500: #bfa094;
+  --color-coffee-600: #a18072;
+  --color-coffee-700: #977669;
+  --color-coffee-800: #846358;
+  --color-coffee-900: #43302b;
+
+  --color-gold-400: #d4af37;
+  --color-gold-500: #c5a028;
+
+  --color-cream-100: #fffaf0;
+}
