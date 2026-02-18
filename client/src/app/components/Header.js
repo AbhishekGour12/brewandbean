@@ -34,7 +34,7 @@ const Header = () => {
             </motion.div>
             <div>
               <h1 className="text-2xl font-bold font-playfair text-coffee-900 tracking-wide">
-                Brew & Bean
+                BarleyHub
               </h1>
               <p className="text-xs text-coffee-600 -mt-1">The Art of Finest Coffee</p>
             </div>
